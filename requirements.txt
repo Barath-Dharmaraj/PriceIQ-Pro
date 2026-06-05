@@ -1,0 +1,19 @@
+# PriceIQ Pro — R Package Requirements
+# Install all packages with:
+#   source("install_packages.R")
+# or manually:
+#   install.packages(c(...))
+
+shiny>=1.7.4
+shinydashboard>=0.7.2
+bslib>=0.5.0
+plotly>=4.10.2
+ggplot2>=3.4.2
+dplyr>=1.1.2
+randomForest>=4.7-1.1
+forecast>=8.21
+caret>=6.0-94
+DT>=0.28
+tidyverse>=2.0.0
+lubridate>=1.9.2
+scales>=1.2.1
