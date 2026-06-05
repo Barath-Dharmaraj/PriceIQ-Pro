@@ -144,20 +144,6 @@ Elasticity is configurable:
 
 ---
 
-## Screenshots
-
-> Add screenshots to a `/screenshots` folder after running the app
-
-| Screen | Description |
-|--------|-------------|
-| `screenshots/dashboard.png` | Executive Dashboard |
-| `screenshots/eda.png` | Exploratory Analytics |
-| `screenshots/ml.png` | Demand Prediction metrics |
-| `screenshots/optimizer.png` | Price optimization result |
-| `screenshots/whatif.png` | What-If Simulator |
-
----
-
 ## Skills Demonstrated
 
 This project was built to showcase a full-stack data science engineering skillset:
